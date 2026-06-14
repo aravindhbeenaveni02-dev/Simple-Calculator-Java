@@ -1,6 +1,6 @@
 # Simple Calculator using Java
 
-This is a simple calculator project using Java.
+A simple calculator project developed using Java.
 
 ## Features
 - Addition
@@ -8,9 +8,15 @@ This is a simple calculator project using Java.
 - Multiplication
 - Division
 
-## How to Run
+- ## How to Run
 1. Open terminal
 2. Compile:
-   javac Calculator.java
+   javac SimpleCalculator.java
 3. Run:
-   java Calculator
+   java SimpleCalculator
+
+## Technologies Used
+- Java
+
+## Author
+Aravindh Beenaveni
